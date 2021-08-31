@@ -1,0 +1,13 @@
+[package]
+name = "canny"
+version = "0.1.0"
+authors = ["jmejia"]
+edition = "2018"
+
+[dependencies]
+
+imageproc = "0.22.0"
+image = "0.23.14"
+rayon = "1.5"
+opencv = "0.53.1"
+edge-detection = "0.2.5"
